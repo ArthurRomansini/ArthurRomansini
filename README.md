@@ -15,9 +15,8 @@ Olá, sou Arthur Romansini, um desenvolvedor front-end. Estou constantemente apr
  
 ## Estatísticas do GitHub
 
-- ![Seguidores do GitHub](https://img.shields.io/github/followers/seu-usuario?style=social)
-- ![Repositórios do GitHub](https://img.shields.io/github/repos/seu-usuario?style=social)
-- ![Contribuições no GitHub](https://img.shields.io/github/commit-activity/y/seu-usuario/seu-repositorio?label=Contribui%C3%A7%C3%B5es%20no%20%C3%9Altimo%20Ano)
+- ![Seguidores do GitHub](https://img.shields.io/github/followers/ArthurRomansini?style=social)
+- ![Repositórios do GitHub](https://img.shields.io/github/repos/ArthurRomansini?style=social)
 
 ## Minhas Redes Sociais
 
