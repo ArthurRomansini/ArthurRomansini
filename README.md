@@ -12,6 +12,12 @@ Olá, sou Arthur Romansini, um desenvolvedor front-end. Estou constantemente apr
   - Angular: Desenvolvendo aplicações web robustas e escaláveis.
   - React: Criando interfaces de usuário interativas e dinâmicas.
   - Astro: Explorando a eficiência da construção de sites estáticos.
+ 
+## Estatísticas do GitHub
+
+- ![Seguidores do GitHub](https://img.shields.io/github/followers/seu-usuario?style=social)
+- ![Repositórios do GitHub](https://img.shields.io/github/repos/seu-usuario?style=social)
+- ![Contribuições no GitHub](https://img.shields.io/github/commit-activity/y/seu-usuario/seu-repositorio?label=Contribui%C3%A7%C3%B5es%20no%20%C3%9Altimo%20Ano)
 
 ## Minhas Redes Sociais
 
